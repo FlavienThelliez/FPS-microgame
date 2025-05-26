@@ -12,3 +12,5 @@ Un projet proposé par l'organisme de formation Simplon, m'ayant demandé de sui
 - Les ombres ne fonctionnent pas, rétablir cela.
 - Faire un Build en WebGL
 - Publier le build sur GitHub Pages
+
+Lien pour tester le jeu : https://play.unity.com/en/games/4e6370bf-1cd1-4516-bd8f-24ac1365734b/fps-microbuild-tf
